@@ -1,3 +1,4 @@
+# Created by: Jose Carlitos Kintanar, Andrew Enero, James Navarro
 # Quick Cart
 
 Quick Cart is a responsive **e-commerce web application** built with HTML, CSS, JavaScript, and Bootstrap.  
